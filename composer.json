@@ -1,0 +1,15 @@
+{
+  "name": "codelab7/Post-Hierarchy",
+  "description": "A Handy Plugin For WordPress. Help you to set a post to child post of another post. which let you create a sub posts, numbered posts etc.",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "codelab7",
+      "email": "info@codelab7.com"
+    }
+  ],
+  "require": {
+    "nategood/httpful": "*"
+  }
+}
